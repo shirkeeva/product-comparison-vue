@@ -1,0 +1,605 @@
+[
+    {
+        "name": "Смартфон Huawei P60 Pro 8/256Gb,  MNA-LX9,  жемчужина рококо",
+        "photo": "https://cdn.citilink.ru/-zwZPQ5bXY57FJzCpu8CmcgCJF2XVp6phEcs9wAGJRg/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1970379_v01_b.jpg",
+        "parameters": {
+            "screen": "OLED, 6.67\" (2700x1220)",
+            "processor": "Qualcomm Snapdragon 8+ Gen 1",
+            "memory": "оперативная 8 ГБ, встроенная 256 ГБ",
+            "battery": "4815 мAч",
+            "network": "2G/3G/4G (LTE)",
+            "scanner": "экран",
+            "size": "74.5 х 161 х 8.3 мм"
+        }
+    },
+    {
+        "name": "Смартфон TECNO Pova Neo 3 8/128Gb,  черный",
+        "photo": "https://cdn.citilink.ru/eI5QBly9zS30yP-RzeSNcvGtSQNEocJjOotZJOid_YA/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1968874_v01_b.jpg",
+        "parameters": {
+            "screen": "IPS HD +, 6.82\" (1640x720)",
+            "processor": "MediaTek Helio G85",
+            "memory": "оперативная 8 ГБ, встроенная 128 ГБ",
+            "battery": "7000 мAч",
+            "network": "2G/3G/4G (LTE)",
+            "scanner": "экран",
+            "size": "77.6 х 170.67 х 9.3 мм"
+        }
+    },
+    {
+        "name": "Смартфон Huawei nova Y91 8/128Gb,  STG-LX1,  сияющий черный",
+        "photo": "https://cdn.citilink.ru/5Hvlvw1yYpswp-XHPDNZZEQrr7Y7QoXwY9dbJsR4toI/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1936626_v01_b.jpg",
+        "parameters": {
+            "screen": "IPS FHD+, 6.95\" (2376x1080)",
+            "processor": "Qualcomm Snapdragon 680",
+            "memory": "оперативная 8 ГБ, встроенная 128 ГБ",
+            "battery": "7000 мAч",
+            "network": "2G/3G/4G (LTE)",
+            "scanner": "сбоку",
+            "size": "79.9 х 171.6 х 8.9 мм"
+        }
+    },
+    {
+        "name": "Смартфон vivo Y36 8/256Gb,  черный",
+        "photo": "https://cdn.citilink.ru/snX5aNFrA6SOrNJRfECz0vh78ZiHzON47lWMZxh_M5A/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1940381_v01_b.jpg",
+        "parameters": {
+            "screen": "IPS FHD+, 6.64\" (2388x1080)",
+            "processor": "Qualcomm Snapdragon 680",
+            "memory": "оперативная 8 ГБ, встроенная 256 ГБ",
+            "battery": "5000 мAч",
+            "network": "2G/3G/4G (LTE)",
+            "scanner": "сбоку",
+            "size": "76.17 х 164.06 х 8.07 мм"
+        }
+    },
+    {
+        "name": "Смартфон Honor X8a 6/128Gb,  небесно-голубой",
+        "photo": "https://cdn.citilink.ru/W7DhOPiTOAI_HbPMOC4OQo8lE6K_0gQQz_fIag85vYU/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1911907_v01_b.jpg",
+        "parameters": {
+            "screen": "LTPS, 6.7\" (2388x1080)",
+            "processor": "MediaTek Helio G88",
+            "memory": "оперативная 6 ГБ, встроенная 128 ГБ",
+            "battery": "4500 мAч",
+            "network": "2G/3G/4G (LTE)/5G",
+            "scanner": "сбоку",
+            "size": "74.5 х 162.9 х 7.48 мм"
+        }
+    },
+    {
+        "name": "Смартфон ITEL P40 4/128Gb,  черный",
+        "photo": "https://cdn.citilink.ru/S69CIZOwCuJQn6I5AhvgDPyqcE_15lwOd3QxDSD1AN4/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1930354_v01_b.jpg",
+        "parameters": {
+            "screen": "TFT HD+, 6.6\" (1612x720)",
+            "processor": "Unisoc SC9863A1",
+            "memory": "оперативная 4 ГБ, встроенная 128 ГБ",
+            "battery": "6000 мAч",
+            "network": "2G/3G/4G (LTE)",
+            "scanner": "задняя панель",
+            "size": "75.8 х 164.4 х 9.25 мм"
+        }
+    },
+    {
+        "name": "Смартфон Xiaomi Poco C40 3/32Gb,  черный",
+        "photo": "https://cdn.citilink.ru/jQt5eEq-O5l52p1TRHEKGle1E9FtSL8qwZZB9_wP9vc/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1823499_v01_b.jpg",
+        "parameters": {
+            "screen": "IPS Dot Drop HD+, 6.71\" (1650x720)",
+            "processor": "JLQ JR510",
+            "memory": "оперативная 3 ГБ, встроенная 32 ГБ",
+            "battery": "6000 мAч",
+            "network": "2G/3G/4G (LTE)",
+            "scanner": "задняя панель",
+            "size": "76.6 х 169.6 х 9.2 мм"
+        }
+    },
+    {
+        "name": "Смартфон Samsung Galaxy Z Fold 5 5G 12/256Gb,  SM-F946B,  голубой",
+        "photo": "https://cdn.citilink.ru/9oFk0NfX1UoaCgqyuVG5xcAl3y_Bl892qgvQMrv3Dfs/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1969318_v01_b.jpg",
+        "parameters": {
+            "screen": "AMOLED Dynamic AMOLED 2X QXGA+, 7.6\" (2176x1812)",
+            "processor": "Qualcomm Snapdragon 8 Gen 2",
+            "memory": "оперативная 12 ГБ, встроенная 256 ГБ",
+            "battery": "4400 мAч",
+            "network": "2G/3G/4G (LTE)/5G",
+            "scanner": "сбоку",
+            "size": "129.9 х 154.9 х 6.1 мм"
+        }
+    },
+    {
+        "name": "Смартфон Xiaomi Poco C40 4/64Gb,  черный",
+        "photo": "https://cdn.citilink.ru/20AlScXO6X5SLTbswmoQrq70kIr7glzPcQg6uQxRjZw/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1823504_v01_b.jpg",
+        "parameters": {
+            "screen": "IPS Dot Drop HD+, 6.71\" (1650x720)",
+            "processor": "JLQ JR510",
+            "memory": "оперативная 4 ГБ, встроенная 64 ГБ",
+            "battery": "6000 мAч",
+            "network": "2G/3G/4G (LTE)",
+            "scanner": "задняя панель",
+            "size": "76.6 х 169.6 х 9.2 мм"
+        }
+    },
+    {
+        "name": "Смартфон INFINIX NOTE 30 8/256Gb,  X6833B,  голубой",
+        "photo": "https://cdn.citilink.ru/Fm3EDPaBHvK-JgCxKcnjJ-7TbE_v0D5HZ9ugaLBi3qU/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1927931_v01_b.jpg",
+        "parameters": {
+            "screen": "IPS FHD+, 6.78\" (2460x1080)",
+            "processor": "MediaTek HELIO G99",
+            "memory": "оперативная 8 ГБ, встроенная 256 ГБ",
+            "battery": "5000 мAч",
+            "network": "2G/3G/4G (LTE)",
+            "scanner": "сбоку",
+            "size": "76.6 х 168.62 х 8.58 мм"
+        }
+    },
+    {
+        "name": "Смартфон Apple iPhone 14 Pro Max 128Gb,  A2893,  черный космос",
+        "photo": "https://cdn.citilink.ru/UKu0dRPGartggmisCBiZ3jxwK4KkP0wcMf4RGZVPQPo/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1869018_v01_b.jpg",
+        "parameters": {
+            "screen": "OLED Super Retina XDR, 6.7\" (2796x1290)",
+            "processor": "Apple A16 Bionic",
+            "memory": "оперативная 6 ГБ, встроенная 128 ГБ",
+            "battery": "4323 мAч",
+            "network": "2G/3G/4G (LTE)/5G",
+            "size": "77.6 х 160.7 х 7.85 мм"
+        }
+    },
+    {
+        "name": "Смартфон Xiaomi Poco X5 5G 8/256Gb,  черный",
+        "photo": "https://cdn.citilink.ru/hQ0cGnNCm7TBT_6u20yQIQ8_HiGKs-2FDKR9mERAjds/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1901554_v01_b.jpg",
+        "parameters": {
+            "screen": "AMOLED FHD +, 6.67\" (2400x1080)",
+            "processor": "Qualcomm Snapdragon 695 5 G",
+            "memory": "оперативная 8 ГБ, встроенная 256 ГБ",
+            "battery": "5000 мAч",
+            "network": "2G/3G/4G (LTE)/5G",
+            "scanner": "сбоку",
+            "size": "76.2 х 165.9 х 8 мм"
+        }
+    },
+    {
+        "name": "Смартфон Samsung Galaxy Z Fold 5 5G 12/1Tb,  SM-F946B,  черный фантом",
+        "photo": "https://cdn.citilink.ru/1AD3BBmSu5xMVNxDojH47QDAeLkKfpkDyIn6SSqnTIk/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1969329_v01_b.jpg",
+        "parameters": {
+            "screen": "AMOLED Dynamic AMOLED 2X QXGA+, 7.6\" (2176x1812)",
+            "processor": "Qualcomm Snapdragon 8 Gen 2",
+            "memory": "оперативная 12 ГБ, встроенная 1 ТБ",
+            "battery": "4400 мAч",
+            "network": "2G/3G/4G (LTE)/5G",
+            "scanner": "сбоку",
+            "size": "129.9 х 154.9 х 6.1 мм"
+        }
+    },
+    {
+        "name": "Смартфон Apple iPhone 13 128Gb,  A2633,  темная ночь",
+        "photo": "https://cdn.citilink.ru/HcMTn9sNucKEyG9x0Ic11SWwL0gYzJpZEByZVZpL-Oc/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1912378_v01_b.jpg",
+        "parameters": {
+            "screen": "OLED Super Retina XDR, 6.1\" (2532x1170)",
+            "processor": "Apple A15 Bionic",
+            "memory": "оперативная 4 ГБ, встроенная 128 ГБ",
+            "battery": "3227 мAч",
+            "network": "2G/3G/4G (LTE)/5G",
+            "size": "71.5 х 146.7 х 7.65 мм"
+        }
+    },
+    {
+        "name": "Смартфон Xiaomi Poco C40 4/64Gb,  зеленый",
+        "photo": "https://cdn.citilink.ru/MtnNLkFU8-vAnlNSsBSTKv49LjWj9zV7Hf58lOUX8c4/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1823506_v01_b.jpg",
+        "parameters": {
+            "screen": "IPS Dot Drop HD+, 6.71\" (1650x720)",
+            "processor": "JLQ JR510",
+            "memory": "оперативная 4 ГБ, встроенная 64 ГБ",
+            "battery": "6000 мAч",
+            "network": "2G/3G/4G (LTE)",
+            "scanner": "задняя панель",
+            "size": "76.6 х 169.6 х 9.2 мм"
+        }
+    },
+    {
+        "name": "Смартфон Apple iPhone 13 128Gb,  A2633,  сияющая звезда",
+        "photo": "https://cdn.citilink.ru/15eyKZ38dceF2y-WhdHb_0S19F0vtECF_DXFw7nXAks/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1901131_v01_b.jpg",
+        "parameters": {
+            "screen": "OLED Super Retina XDR, 6.1\" (2532x1170)",
+            "processor": "Apple A15 Bionic",
+            "memory": "оперативная 4 ГБ, встроенная 128 ГБ",
+            "battery": "3227 мAч",
+            "network": "2G/3G/4G (LTE)/5G",
+            "size": "71.5 х 146.7 х 7.65 мм"
+        }
+    },
+    {
+        "name": "Смартфон Samsung Galaxy A04s 4/64Gb,  SM-A047F,  зеленый",
+        "photo": "https://cdn.citilink.ru/J3CPNgl-RgVQZpnN7ibERasnGko4B0OwifzlZNs6ez4/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1957641_v01_b.jpg",
+        "parameters": {
+            "screen": "LCD HD+, 6.5\" (1600x720)",
+            "processor": "Samsung Exynos 850",
+            "memory": "оперативная 4 ГБ, встроенная 64 ГБ",
+            "battery": "5000 мAч",
+            "network": "2G/3G/4G (LTE)",
+            "scanner": "сбоку",
+            "size": "76.7 х 164.7 х 9.1 мм"
+        }
+    },
+    {
+        "name": "Смартфон REALME C33 4/128Gb,  черный",
+        "photo": "https://cdn.citilink.ru/Ki3-Smnn0neDnF2DBwvOP2Y4COJU_xpuOgFKDZjsJ50/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1864046_v01_b.jpg",
+        "parameters": {
+            "screen": "LCD HD+, 6.5\" (1600x720)",
+            "processor": "Unisoc T612",
+            "memory": "оперативная 4 ГБ, встроенная 128 ГБ",
+            "battery": "5000 мAч",
+            "network": "2G/3G/4G (LTE)",
+            "scanner": "сбоку",
+            "size": "75.7 х 164.2 х 8.3 мм"
+        }
+    },
+    {
+        "name": "Смартфон INFINIX NOTE 30 8/256Gb,  X6833B,  черный",
+        "photo": "https://cdn.citilink.ru/ZgDrNQhoxF1PUB9xmd4VscuXLi7lERis_WUR_5JcYGg/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1927929_v01_b.jpg",
+        "parameters": {
+            "screen": "IPS FHD+, 6.78\" (2460x1080)",
+            "processor": "MediaTek HELIO G99",
+            "memory": "оперативная 8 ГБ, встроенная 256 ГБ",
+            "battery": "5000 мAч",
+            "network": "2G/3G/4G (LTE)",
+            "scanner": "сбоку",
+            "size": "76.6 х 168.62 х 8.58 мм"
+        }
+    },
+    {
+        "name": "Смартфон Xiaomi Redmi Note 12 4/128Gb,  серый",
+        "photo": "https://cdn.citilink.ru/2w9schIMi7ZBXogdnWlVzHRQwDxLxDmWyKR7ne9tjJE/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1914681_v01_b.jpg",
+        "parameters": {
+            "screen": "AMOLED, 6.67\" (2400x1080)",
+            "processor": "Qualcomm Snapdragon 685",
+            "memory": "оперативная 4 ГБ, встроенная 128 ГБ",
+            "battery": "5000 мAч",
+            "network": "2G/3G/4G (LTE)",
+            "scanner": "сбоку",
+            "size": "76.2 х 165.9 х 7.8 мм"
+        }
+    },
+    {
+        "name": "Смартфон REALME C55 8/256Gb,  RMX3710,  черный",
+        "photo": "https://cdn.citilink.ru/JZ4gwboYxuuf9LG5jBWiKYGy9YshKB4glnJxkzJP9HY/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1918400_v01_b.jpg",
+        "parameters": {
+            "screen": "IPS FHD+, 6.72\" (2408x1080)",
+            "processor": "MediaTek Helio G88",
+            "memory": "оперативная 8 ГБ, встроенная 256 ГБ",
+            "battery": "5000 мAч",
+            "network": "2G/3G/4G (LTE)",
+            "scanner": "сбоку",
+            "size": "75.9 х 165.6 х 7.89 мм"
+        }
+    },
+    {
+        "name": "Смартфон Xiaomi Poco X5 Pro 5G 8/256Gb,  голубой",
+        "photo": "https://cdn.citilink.ru/Aq6STjabwVLN8SfeP0EAM40MAGGUUMK0Bi5SzePjDMg/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1901549_v01_b.jpg",
+        "parameters": {
+            "screen": "AMOLED FHD +, 6.67\" (2400x1080)",
+            "processor": "Qualcomm Snapdragon 778G 5G",
+            "memory": "оперативная 8 ГБ, встроенная 256 ГБ",
+            "battery": "5000 мAч",
+            "network": "2G/3G/4G (LTE)/5G",
+            "scanner": "сбоку",
+            "size": "76 х 162.9 х 7.9 мм"
+        }
+    },
+    {
+        "name": "Смартфон ITEL P40 4/128Gb,  золотистый",
+        "photo": "https://cdn.citilink.ru/OLBPoVZyeTwpLuLfAmBHV7v7l9dRcjzO3SamEAWm5RI/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1930366_v01_b.jpg",
+        "parameters": {
+            "screen": "TFT HD+, 6.6\" (1612x720)",
+            "processor": "Unisoc SC9863A1",
+            "memory": "оперативная 4 ГБ, встроенная 128 ГБ",
+            "battery": "6000 мAч",
+            "network": "2G/3G/4G (LTE)",
+            "scanner": "задняя панель",
+            "size": "75.8 х 164.4 х 9.25 мм"
+        }
+    },
+    {
+        "name": "Смартфон Apple iPhone 14 Pro 128Gb,  A2889,  темно-фиолетовый",
+        "photo": "https://cdn.citilink.ru/vQr5tnupep9cU4K7zIpxqledl0PKBoFNwtb3-K5iD-o/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1863801_v01_b.jpg",
+        "parameters": {
+            "screen": "OLED Super Retina XDR, 6.1\" (2556x1179)",
+            "processor": "Apple A16 Bionic",
+            "memory": "оперативная 6 ГБ, встроенная 128 ГБ",
+            "battery": "3200 мAч",
+            "network": "2G/3G/4G (LTE)/5G",
+            "size": "71.5 х 147.5 х 7.85 мм"
+        }
+    },
+    {
+        "name": "Смартфон ITEL P40 4/128Gb,  голубой",
+        "photo": "https://cdn.citilink.ru/5xAKc5-4E3TsYwwK6jFK3F5v5NTrRL78hmlMP0HHGZM/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1930362_v01_b.jpg",
+        "parameters": {
+            "screen": "TFT HD+, 6.6\" (1612x720)",
+            "processor": "Unisoc SC9863A1",
+            "memory": "оперативная 4 ГБ, встроенная 128 ГБ",
+            "battery": "6000 мAч",
+            "network": "2G/3G/4G (LTE)",
+            "scanner": "задняя панель",
+            "size": "75.8 х 164.4 х 9.25 мм"
+        }
+    },
+    {
+        "name": "Смартфон Xiaomi Redmi 9A 2/32Gb,  серый",
+        "photo": "https://cdn.citilink.ru/3-o2cIp81MxF-2BjuEj83hQDRThZ5UroHij8RAhJIOQ/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1402120_v01_b.jpg",
+        "parameters": {
+            "screen": "IPS Dot Drop HD+, 6.53\" (1600x720)",
+            "processor": "MediaTek Helio G25",
+            "memory": "оперативная 2 ГБ, встроенная 32 ГБ",
+            "battery": "5000 мAч",
+            "network": "2G/3G/4G (LTE)",
+            "size": "77.07 х 164.9 х 9 мм"
+        }
+    },
+    {
+        "name": "Смартфон Samsung Galaxy A54 5G 8/256Gb,  SM-A546E,  лаванда",
+        "photo": "https://cdn.citilink.ru/3Il6GmKaUcAM6aluXPxTPZp9DJPZ4nnpOQCVDYevFvQ/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1911813_v01_b.jpg",
+        "parameters": {
+            "screen": "AMOLED Super AMOLED, 6.4\" (2340x1080)",
+            "processor": "Samsung Exynos 1380",
+            "memory": "оперативная 8 ГБ, встроенная 256 ГБ",
+            "battery": "5000 мAч",
+            "network": "2G/3G/4G (LTE)/5G",
+            "scanner": "экран",
+            "size": "76.7 х 158.2 х 8.2 мм"
+        }
+    },
+    {
+        "name": "Смартфон Xiaomi Redmi 10C 3/64Gb,  зеленая мята",
+        "photo": "https://cdn.citilink.ru/qZxzyZCxmoAJJx1CDBsuQDFB7FotrVYOpoOOGyT9enk/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1811841_v01_b.jpg",
+        "parameters": {
+            "screen": "IPS Dot Drop HD+, 6.71\" (1650x720)",
+            "processor": "Qualcomm Snapdragon 680",
+            "memory": "оперативная 3 ГБ, встроенная 64 ГБ",
+            "battery": "5000 мAч",
+            "network": "2G/3G/4G (LTE)",
+            "scanner": "задняя панель",
+            "size": "76.6 х 169.6 х 8.3 мм"
+        }
+    },
+    {
+        "name": "Смартфон Honor X8a 6/128Gb,  полуночный черный",
+        "photo": "https://cdn.citilink.ru/nigtyCC3IPPmad4p9rbHaq_W_s5FyGqg1EipxuD1V50/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1911906_v01_b.jpg",
+        "parameters": {
+            "screen": "LTPS, 6.7\" (2388x1080)",
+            "processor": "MediaTek Helio G88",
+            "memory": "оперативная 6 ГБ, встроенная 128 ГБ",
+            "battery": "4500 мAч",
+            "network": "2G/3G/4G (LTE)/5G",
+            "scanner": "сбоку",
+            "size": "74.5 х 162.9 х 7.48 мм"
+        }
+    },
+    {
+        "name": "Смартфон Samsung Galaxy A24 6/128Gb,  SM-A245F,  черный",
+        "photo": "https://cdn.citilink.ru/80VJCZTTuh8X19syamPAi_R55dDh9EZo6kIEZqHnkxk/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1911940_v01_b.jpg",
+        "parameters": {
+            "screen": "AMOLED Super AMOLED FHD+, 6.4\" (2340x1080)",
+            "processor": "MediaTek HELIO G99",
+            "memory": "оперативная 6 ГБ, встроенная 128 ГБ",
+            "battery": "5000 мAч",
+            "network": "2G/3G/4G (LTE)",
+            "scanner": "сбоку",
+            "size": "77.6 х 162.1 х 8.3 мм"
+        }
+    },
+    {
+        "name": "Смартфон Xiaomi Poco C40 3/32Gb,  желтый",
+        "photo": "https://cdn.citilink.ru/XC4sXOpV2M-ilaF44oSrOvJAHL7DTWkBpuoTysyQQ9Y/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1823501_v01_b.jpg",
+        "parameters": {
+            "screen": "IPS Dot Drop HD+, 6.71\" (1650x720)",
+            "processor": "JLQ JR510",
+            "memory": "оперативная 3 ГБ, встроенная 32 ГБ",
+            "battery": "6000 мAч",
+            "network": "2G/3G/4G (LTE)",
+            "scanner": "задняя панель",
+            "size": "76.6 х 169.6 х 9.2 мм"
+        }
+    },
+    {
+        "name": "Смартфон Xiaomi Redmi Note 12 6/128Gb,  зеленый",
+        "photo": "https://cdn.citilink.ru/i8HfHoLkb_LlDfY5wA7W3EbFkTbvTt83oSwEEQq2_Wc/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1914686_v01_b.jpg",
+        "parameters": {
+            "screen": "AMOLED, 6.67\" (2400x1080)",
+            "processor": "Qualcomm Snapdragon 685",
+            "memory": "оперативная 6 ГБ, встроенная 128 ГБ",
+            "battery": "5000 мAч",
+            "network": "2G/3G/4G (LTE)",
+            "scanner": "сбоку",
+            "size": "76.2 х 165.9 х 7.8 мм"
+        }
+    },
+    {
+        "name": "Смартфон Xiaomi Poco C51 2/64Gb,  черный",
+        "photo": "https://cdn.citilink.ru/UBBku6w_zoN1F61ol7zqSnvkgoaeDofzYRXm3T32yRw/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1939827_v01_b.jpg",
+        "parameters": {
+            "screen": "IPS, 6.52\" (1600x720)",
+            "processor": "MediaTek Helio G36",
+            "memory": "оперативная 2 ГБ, встроенная 64 ГБ",
+            "battery": "5000 мAч",
+            "network": "2G/3G/4G (LTE)",
+            "scanner": "задняя панель",
+            "size": "76.75 х 165.9 х 9.09 мм"
+        }
+    },
+    {
+        "name": "Смартфон Samsung Galaxy A54 5G 6/128Gb,  SM-A546E,  графит",
+        "photo": "https://cdn.citilink.ru/RgyE1qUxojKf2EqfmyoOa07sEBbDXUY1_AD4KCWeiFc/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1911839_v01_b.jpg",
+        "parameters": {
+            "screen": "AMOLED Super AMOLED, 6.4\" (2340x1080)",
+            "processor": "Samsung Exynos 1380",
+            "memory": "оперативная 6 ГБ, встроенная 128 ГБ",
+            "battery": "5000 мAч",
+            "network": "2G/3G/4G (LTE)/5G",
+            "scanner": "экран",
+            "size": "76.7 х 158.2 х 8.2 мм"
+        }
+    },
+    {
+        "name": "Смартфон Xiaomi Redmi Note 12S 8/256Gb,  черный",
+        "photo": "https://cdn.citilink.ru/dA1pz-HuQkO0F64bQXSea0WkUNuE-r3nKznRiv5PNCE/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1924736_v01_b.jpg",
+        "parameters": {
+            "screen": "AMOLED FHD+, 6.43\" (2400x1080)",
+            "processor": "MediaTek Helio G96",
+            "memory": "оперативная 8 ГБ, встроенная 256 ГБ",
+            "battery": "5000 мAч",
+            "network": "2G/3G/4G (LTE)",
+            "scanner": "сбоку",
+            "size": "73.9 х 159.9 х 8.1 мм"
+        }
+    },
+    {
+        "name": "Смартфон Samsung Galaxy A14 4/64Gb,  SM-A145,  черный",
+        "photo": "https://cdn.citilink.ru/C81vi77BVAI_L4-p1aILMP_FfGozAAyNIT2uBvrjrNk/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1911784_v01_b.jpg",
+        "parameters": {
+            "screen": "IPS PLS LCD FHD+, 6.6\" (2408x1080)",
+            "processor": "Samsung Exynos 850",
+            "memory": "оперативная 4 ГБ, встроенная 64 ГБ",
+            "battery": "5000 мAч",
+            "network": "2G/3G/4G (LTE)",
+            "scanner": "сбоку",
+            "size": "78 х 167.7 х 9.1 мм"
+        }
+    },
+    {
+        "name": "Смартфон REALME C55 8/256Gb,  RMX3710,  перламутровый",
+        "photo": "https://cdn.citilink.ru/6Pg88LgcwsPr-qXzVcf2VxdpGpdYVLVofvu-JA9sKG4/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1918401_v01_b.jpg",
+        "parameters": {
+            "screen": "IPS FHD+, 6.72\" (2408x1080)",
+            "processor": "MediaTek Helio G88",
+            "memory": "оперативная 8 ГБ, встроенная 256 ГБ",
+            "battery": "5000 мAч",
+            "network": "2G/3G/4G (LTE)",
+            "scanner": "сбоку",
+            "size": "75.9 х 165.6 х 7.89 мм"
+        }
+    },
+    {
+        "name": "Смартфон Apple iPhone 14 128Gb,  A2884,  темная ночь",
+        "photo": "https://cdn.citilink.ru/RcGzyoNVvPoh7lTDQeiykp6bLwLVjBLeKoTjHjAgnmc/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1889453_v01_b.jpg",
+        "parameters": {
+            "screen": "OLED Super Retina XDR, 6.1\" (2532x1170)",
+            "processor": "Apple A15 Bionic",
+            "memory": "оперативная 6 ГБ, встроенная 128 ГБ",
+            "battery": "3279 мAч",
+            "network": "2G/3G/4G (LTE)/5G",
+            "size": "71.5 х 146.7 х 7.8 мм"
+        }
+    },
+    {
+        "name": "Смартфон INFINIX NOTE 30 PRO 8/256Gb,  X678B,  золотой",
+        "photo": "https://cdn.citilink.ru/mWiSKv7H3tqDKXdZdU4O3Um6jhgYmDf1xT0WtUCr4P8/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1927934_v01_b.jpg",
+        "parameters": {
+            "screen": "AMOLED FHD+, 6.67\" (2400x1080)",
+            "processor": "MediaTek HELIO G99",
+            "memory": "оперативная 8 ГБ, встроенная 256 ГБ",
+            "battery": "5000 мAч",
+            "network": "2G/3G/4G (LTE)",
+            "scanner": "сбоку",
+            "size": "75.95 х 162.72 х 8.12 мм"
+        }
+    },
+    {
+        "name": "Смартфон Samsung Galaxy A34 5G 8/256Gb,  SM-A346E,  графит",
+        "photo": "https://cdn.citilink.ru/YyJirMtfijX73oOZO4dutnDC0u3XUMww3FcwYrV6ZOE/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1911849_v01_b.jpg",
+        "parameters": {
+            "screen": "AMOLED Super AMOLED, 6.6\" (2340x1080)",
+            "processor": "MediaTek MT6877V",
+            "memory": "оперативная 8 ГБ, встроенная 256 ГБ",
+            "battery": "5000 мAч",
+            "network": "2G/3G/4G (LTE)/5G",
+            "scanner": "экран",
+            "size": "78.1 х 161.3 х 8.2 мм"
+        }
+    },
+    {
+        "name": "Смартфон Xiaomi Poco C51 2/64Gb,  синий",
+        "photo": "https://cdn.citilink.ru/iPAHMvwUl6W8844tOn7VWEc2INuuwXLeF63Xl1rJvc4/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1939828_v01_b.jpg",
+        "parameters": {
+            "screen": "IPS, 6.52\" (1600x720)",
+            "processor": "MediaTek Helio G36",
+            "memory": "оперативная 2 ГБ, встроенная 64 ГБ",
+            "battery": "5000 мAч",
+            "network": "2G/3G/4G (LTE)",
+            "scanner": "задняя панель",
+            "size": "76.75 х 165.9 х 9.09 мм"
+        }
+    },
+    {
+        "name": "Смартфон REALME 10 4G 8/128Gb,  RMX3630,  черный",
+        "photo": "https://cdn.citilink.ru/LoWgkyIHPmTlMm2l7pxohhi7Ig3lAniUfr97D7NHSSQ/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1869929_v01_b.jpg",
+        "parameters": {
+            "screen": "AMOLED Super AMOLED FHD+, 6.4\" (2400x1080)",
+            "processor": "MediaTek HELIO G99",
+            "memory": "оперативная 8 ГБ, встроенная 128 ГБ",
+            "battery": "5000 мAч",
+            "network": "2G/3G/4G (LTE)",
+            "size": "73.3 х 159.9 х 7.95 мм"
+        }
+    },
+    {
+        "name": "Смартфон REALME 10 4G 8/256Gb,  RMX3630,  белый",
+        "photo": "https://cdn.citilink.ru/IrhAx5aPR_gYfBhcY4OGVhd94QYLIACAP1AqUrmQ5eg/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1869932_v01_b.jpg",
+        "parameters": {
+            "screen": "AMOLED Super AMOLED FHD+, 6.4\" (2400x1080)",
+            "processor": "MediaTek HELIO G99",
+            "memory": "оперативная 8 ГБ, встроенная 256 ГБ",
+            "battery": "5000 мAч",
+            "network": "2G/3G/4G (LTE)",
+            "size": "73.3 х 159.9 х 7.95 мм"
+        }
+    },
+    {
+        "name": "Смартфон REALME C30s 4/64Gb,  черный",
+        "photo": "https://cdn.citilink.ru/z2oiAZjODcTilG2Jlg3fGtxmaPQ68eo-Df5TIw-ZFXk/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1895024_v01_b.jpg",
+        "parameters": {
+            "screen": "LCD HD +, 6.5\" (1600x720)",
+            "processor": "Unisoc Spreadtrum SC9863",
+            "memory": "оперативная 4 ГБ, встроенная 64 ГБ",
+            "battery": "5000 мAч",
+            "network": "2G/3G/4G (LTE)",
+            "scanner": "сбоку",
+            "size": "76.1 х 164.7 х 8.5 мм"
+        }
+    },
+    {
+        "name": "Смартфон Samsung Galaxy A24 6/128Gb,  SM-A245F,  серебристый",
+        "photo": "https://cdn.citilink.ru/0lk33oom_R0z160GQpdpbt_0CNOU9hwLC3_4kmsePwA/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1927117_v01_b.jpg",
+        "parameters": {
+            "screen": "AMOLED Super AMOLED FHD+, 6.4\" (2340x1080)",
+            "processor": "MediaTek HELIO G99",
+            "memory": "оперативная 6 ГБ, встроенная 128 ГБ",
+            "battery": "5000 мAч",
+            "network": "2G/3G/4G (LTE)",
+            "scanner": "сбоку",
+            "size": "77.6 х 162.1 х 8.3 мм"
+        }
+    },
+    {
+        "name": "Смартфон REALME C33 4/128Gb,  голубой",
+        "photo": "https://cdn.citilink.ru/R5K_yxal2ELkUXZD1BFY0be0uooYBgM50q1d-vOy_4o/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1864048_v01_b.jpg",
+        "parameters": {
+            "screen": "LCD HD+, 6.5\" (1600x720)",
+            "processor": "Unisoc T612",
+            "memory": "оперативная 4 ГБ, встроенная 128 ГБ",
+            "battery": "5000 мAч",
+            "network": "2G/3G/4G (LTE)",
+            "scanner": "сбоку",
+            "size": "75.7 х 164.2 х 8.3 мм"
+        }
+    },
+    {
+        "name": "Смартфон ITEL Vision 5 Plus 4/128Gb,  черный",
+        "photo": "https://cdn.citilink.ru/5jQVUmI7wwtvXFo3aIXspo3k3qY7XwwwGAtrdFihoKQ/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1913422_v01_b.jpg",
+        "parameters": {
+            "screen": "IPS FHD+, 6.58\" (2408x1080)",
+            "processor": "Unisoc t606",
+            "memory": "оперативная 4 ГБ, встроенная 128 ГБ",
+            "battery": "5000 мAч",
+            "network": "2G/3G/4G (LTE)",
+            "scanner": "сбоку",
+            "size": "75.3 х 164.3 х 8.42 мм"
+        }
+    }
+]
