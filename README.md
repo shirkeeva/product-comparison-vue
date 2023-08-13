@@ -14,11 +14,10 @@ npm run serve
 ```
 npm run build
 ```
-
 ### Lints and fixes files
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Design: 
+https://www.figma.com/file/MvfnACHAibvbpWYtzxZMzA/%D0%9A%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3?node-id=0%3A1
