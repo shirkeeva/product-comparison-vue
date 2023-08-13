@@ -1,7 +1,7 @@
 <template>
     <div class="popup">
         <input type="text" class="popup__search" placeholder="Поиск" v-model="searchQuery">
-        <div class="popup__item" v-for="(product, index) in products" >
+        <div class="popup__item" v-for="(product, index) in products" :key="index">
             <div class="popup__item_inside" v-if="!displayedProducts.includes(product) && filteredList.includes(product)">
                 <button class="popup__change" @click="replaceProduct(index)"><img src="../img/arrow_change.svg" alt=""></button>
                 <img class="popup__img" :src="product.photo" alt="">
@@ -17,7 +17,7 @@ import { useStore } from 'vuex'
 
 
 export default defineComponent({
-    name: 'Popup',
+    name: 'PopupModule',
     setup() {
         const store = useStore()
         let displayedProducts = computed(() => store.state.displayedProducts)
@@ -37,7 +37,7 @@ export default defineComponent({
         }
     },
     computed: {
-        filteredList() {
+        filteredList(): Array<any> {
             return this.products.filter((product: any) => product.name.toLowerCase().includes(this.searchQuery.toLowerCase()))
         }
     }

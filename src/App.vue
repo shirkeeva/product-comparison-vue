@@ -28,7 +28,7 @@
                         <input type="checkbox" class="body__table_check" id="diff" name="diff" v-model="showDifferences">
                         <label for="diff" class="body__table_label">Показать различия</label>
                     </th>
-                    <th class="body__table_th" v-for="product, index in displayedProducts">
+                    <th class="body__table_th" v-for="product, index in displayedProducts" :key="index">
                         <img class="body__table_th_photo" :src="product.photo" :alt=product.name />
                         <button class="body__table_th_arrow"  @click="showModal(index)"><img src="./img/arrow_down.svg" alt=""></button>
                         <Popup v-if="modalVisible === index"></Popup>
@@ -36,9 +36,9 @@
                     </th>
                 </thead>
                 <tbody class="body__table_tbody">
-                    <tr class="body__table_tr" v-for="(critname, crit) in criteria">
+                    <tr class="body__table_tr" v-for="(critname, crit) in criteria" :key="crit">
                         <td class="body__table_td first">{{ critname }}</td>
-                        <td class="body__table_td" v-for="product in displayedProducts"> {{ product.parameters[crit] }}</td>
+                        <td class="body__table_td" v-for="(product, index) in displayedProducts" :key="index"> {{ product.parameters[crit] }}</td>
                     </tr>
                 </tbody>
             </table>
